@@ -12,6 +12,13 @@ Desarrollador de producto que transforma ideas en soluciones reales. No solo esc
 🎮 Creo productos para Twitch. <br/>
 ⚙️ Me apasiona DevOps y automatización - construyo herramientas que mejoran la productividad de equipos. <br/>
 
+📈 Algunos de mis logros
+
+- Migración de monolito a arquitectura de microfrontends.
+- Reducción en tiempos despliegue mediante Docker, automatización y creación de librerías.
+- Creación de Design Systems y UI Kit.
+- Liderazgo técnico y mentoría de equipos Frontend.
+
 🛠️ Stack
 
 FrontEnd <br/>
@@ -31,10 +38,3 @@ Otras herramientas:
 - Nx
 - Module federation
 - Nexus
-
-📈 Algunos logros
-
-- Migración de monolito a arquitectura de microfrontends
-- Reducción de tiempos de despliegue mediante CI/CD y automatización
-- Creación de Design Systems y librerías compartidas
-- Liderazgo técnico y mentoría de equipos Frontend
